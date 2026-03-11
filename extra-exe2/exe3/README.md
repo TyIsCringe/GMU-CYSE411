@@ -254,14 +254,6 @@ The result should include:
 
 ---
 
-# Submission
-
-Students must submit:
-
-1. A document containing **all SQL queries written for each task**.
-2. Screenshots or copied results from the SQL compiler showing the outputs.
-
----
 
 # Reflection Questions
 
@@ -269,3 +261,11 @@ Students must submit:
 2. Why are **foreign keys** important for joining tables?
 3. Which SQL command was most useful for combining information across tables?
 4. How could poor database design affect query complexity?
+
+
+
+## Instructor Solution
+
+The instructor solution for this assignment is available here:
+
+[Instructor Solution](ANSWER_EXE3.md)
